@@ -5,7 +5,7 @@ import NameManager from "./components/nameManage";
 function App() {
     return (
     <div className="App">
-         <NameManager/>   
+         <NameManager/>  
     </div>
   );
 }
